@@ -2,6 +2,8 @@
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Após a conclusão deste evento foi criado um componente, acessível em:
+https://explorer-lab-01-hmu4hp54c-bigodrigo.vercel.app/
 </p>
 
 <p align="center">
