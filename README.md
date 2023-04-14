@@ -1,4 +1,6 @@
 <h1 align="center"> Explorer Lab #01 </h1>
+## (Finalizado) - xx/xx/23
+### Este foi provavelmente meu primeiro projeto relevante, participei de um evento da Rocketseat quando tinha um conhecimento muito básico de HTML e CSS. Revisei o projeto e ajustei alguns erros!
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
